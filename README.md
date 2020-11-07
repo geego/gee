@@ -1,7 +1,5 @@
 # geen
 
-a high performance, lightweight and composable package for building HTTP services.
-
 `geen` is a high performance, lightweight and composable package for building HTTP services. It's
 especially good at helping you write large REST API services that are kept maintainable as your
 project grows and changes.
